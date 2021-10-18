@@ -23,7 +23,7 @@
   "dependencies": {
     "columnify": "^1.5.4",
     "commander": "^7.2.0",
-    "gpg": "^0.6.0",
+    "gpg": "https://github.com/jrgriffiniii/node-gpg.git#fix-globals-gpg",
     "jssha": "^3.2.0",
     "prompt": "^1.1.0",
     "request": "^2.88.0",
